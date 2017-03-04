@@ -1,0 +1,12 @@
+(dp0
+S'\xe6\xb5\x8b\xe8\xaf\x951'
+p1
+(lp2
+I123
+aI15000
+asS'\xe6\xb5\x8b\xe8\xaf\x952'
+p3
+(lp4
+I456
+aI15000
+as.
