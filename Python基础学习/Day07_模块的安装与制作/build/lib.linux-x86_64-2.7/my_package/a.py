@@ -1,0 +1,2 @@
+def aFunc():
+	print '........aFunc........'
