@@ -1,0 +1,28 @@
+/*修改html中的body标签属性background-color*/
+/*格式是:选择器 {属性:value;}*/
+body {
+	/*修改背景色*/
+	/*background-color: #0000ff; */
+	/*修改背景图片*/
+	background-image:url("https://aecpm.alicdn.com/simba/img/TB1X6uHLVXXXXcCXVXXSutbFXXX.jpg");
+	/*垂直平铺*/
+	background-repeat: repeat-y;
+	/*用于指定背景图像是固定在屏幕上的、还是随着它所在的元素而滚动的*/
+	background-attachment: scroll;
+	/*图像被放置在页面内距左边2厘米、顶部2厘米的地方*/
+	background-position:20cm 20cm;
+}
+
+h1 {
+	/*修改前景色*/
+	color:#ff0000;
+	background-color: #00ff00; 
+}
+
+h2 {
+	/*修改字体*/
+	font-family: "Times New Roman",serif;
+}
+a:link {
+	color:yellow;
+}

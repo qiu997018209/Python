@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>网站防火墙 -斗鱼</title>
+<link href="https://staticlive.douyucdn.cn/common/waf/css/style.css?20160621" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="waf">
+        <div class="head">
+        </div>
+        <div class="content">
+            <div class="tip">
+                <div class="tip-wrap">
+                    <h1>如何解决：</h1>
+                    <p>1、检查提交内容；</p>
+                    <p>2、如网站托管，请联系空间提供商；</p>
+                    <p>3、普通网站访客，请联系网站管理员。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
