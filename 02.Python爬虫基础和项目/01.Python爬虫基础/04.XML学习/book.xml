@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book>
+		<title>Learn Python</title>
+	</book>
+	<book>
+		<title>Learn Java</title>
+	</book>
+</bookstore>
